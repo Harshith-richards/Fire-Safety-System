@@ -84,3 +84,4 @@ This project contains several specialized guides tailored to different component
 * Harshith Richards
 * Jithin Simon 
 * Dishanth J
+* Harshith Gowda
