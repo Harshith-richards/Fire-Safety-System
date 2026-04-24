@@ -79,3 +79,8 @@ This project contains several specialized guides tailored to different component
 
 ---
 **Developed for: 7th Semester Final Year Project**
+
+### Contributors
+* Harshith Richards
+* Jithin Simon 
+* Dishanth J
