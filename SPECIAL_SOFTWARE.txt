@@ -1,0 +1,26 @@
+1. Python 3.8 or higher
+   - Required for running the backend server.
+   - Download: https://www.python.org/downloads/
+
+2. Flutter SDK (Version 3.10.0 or higher recommended)
+   - Required for running/building the mobile/web application.
+   - Download: https://docs.flutter.dev/get-started/install
+
+3. MongoDB Community Server
+   - Database for storing user data and logs.
+   - Download: https://www.mongodb.com/try/download/community
+   - Ensure it is running on the default port 27017.
+
+4. Arduino IDE (Version 2.0 or higher)
+   - Required for uploading firmware to the ESP32 CAM module.
+   - Download: https://www.arduino.cc/en/software
+   - Board Manager Extension: ESP32 by Espressif Systems.
+   - Library: DHT sensor library by Adafruit, Unified Sensor library.
+
+5. Visual Studio Code (Optional but Recommended)
+   - IDE for editing code.
+   - Extensions: Flutter, Python, Pylance.
+
+6. CP210x USB to UART Bridge Driver
+   - Required for the computer to recognize the ESP32 module.
+   - Download: https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
