@@ -1,6 +1,6 @@
 # 🔥 IoT & AI Fire Safety System
 
-Welcome to the Fire Safety System Project! This comprehensive platform integrates IoT sensors (Temperature, Humidity, Gas) with robust AI (YOLO Image Recognition) to detect, classify, and automatically alert users of fire incidents in real-time.
+Welcome to the Fire Safety System Project! This comprehensive platform integrates IoT sensors (Temperature, Humidity, Gas) with robust AI (YOLO Image Recognition) to detect, classify, and automatically alert users of fire incidents in real time.
 
 This repository serves as the central hub for the Flutter App source, Python Machine Learning Backend, and the Arduino IoT firmware.
 
